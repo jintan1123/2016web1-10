@@ -32,7 +32,7 @@ footer{
   background-color: blue;
 }
 
-@media screen and (max-width:640px){
+/*@media screen and (max-width:640px){
   body{
     background-color: red;
   }
@@ -62,4 +62,4 @@ footer{
     font-family: 'Noto Sans Japanese',sans-serif;
     content: "横長";
   }
-}
+}*/
